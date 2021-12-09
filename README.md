@@ -1,7 +1,7 @@
 
 # Frontend Mentor - Sunnyside agency landing page solution
 
-This is a solution to the [Sunnyside agency landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Sunnyside agency landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef). Frontend Mentor challenges help you improve your coding skills by building real projects.
 
 ## Table of contents
 
@@ -50,16 +50,16 @@ Users should be able to:
 
 ### What I learned
 
-I learnt how to use CSS Grid perfectly well without the use of external frameworks like Bootstrap, e.t.c. 
+I learned how to use CSS Grid perfectly well without the use of external frameworks like Bootstrap, e.t.c. 
 
 I know what flexbox is tho. But in general, this project made me more comfortable with flexbox and it was like a challenge to test my flexbox skills. Now I can consider myself as a flexbox King. LOL 
 
-I also learnt new tricks about mobile responsive design as well.  
+I also learned new tricks about mobile responsive design as well.  
 
 
 ### Continued development
 
-What next after this project? I will like to continue focusing on building more web apps with Next JS/React JS and also master working with third party api as well. 
+What next after this project? I will like to continue focusing on building more web apps with Next JS/React JS and also build more projects with different third-party APIs as well. 
 
 
 ## Author
