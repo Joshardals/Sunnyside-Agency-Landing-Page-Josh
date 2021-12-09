@@ -60,7 +60,7 @@ I also learnt new tricks about mobile responsive design as well.
 
 ### Continued development
 
-What next after this project? I will like to continue focusing on building more web apps with Next JS or React JS and also how to interact with third party web api as well. 
+What next after this project? I will like to continue focusing on building more web apps with Next JS/React JS and also master working with third party api as well. 
 
 
 ## Author
