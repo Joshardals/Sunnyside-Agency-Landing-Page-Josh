@@ -66,5 +66,5 @@ What next after this project? I will like to continue focusing on building more 
 ## Author
 
 - Github - [Joshardals] ("https://github.com/Joshardals")
-- Frontend Mentor - [@joshardals](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Joshardals](https://www.frontendmentor.io/profile/Joshardals)
 - Twitter - [@Joshardals](https://www.twitter.com/joshardals
